@@ -78,7 +78,7 @@ nav a{
     margin-right:auto;
     margin-left:auto;
     position:absolute;
-
+    z-index:500;
     
 }
 
