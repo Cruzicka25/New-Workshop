@@ -51,7 +51,7 @@ nav{
     background:rgba(0, 0, 0, 0.386);
     border-radius:5px;
     border-width:none;
-    position:fixed;
+    position:absolute;
     top:0px;
     margin-right:auto;
     margin-left:auto;
@@ -72,8 +72,6 @@ nav a{
     font-weight:300px;
     padding-left:20px;
     color:rgb(216, 216, 216);
-    position:fixed;
-    left:210px;
     top:0px;
     margin-right:auto;
     margin-left:auto;
