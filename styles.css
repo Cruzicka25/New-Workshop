@@ -64,11 +64,11 @@ nav a{
     font-size:48px;
     font-weight:300px;
     padding-left:20px;
-    color:rgb(191, 200, 185);
+    color:rgb(221, 233, 214);
     position:fixed;
     left:210px;
     top:0px;
-    transform:translateX(-100rem);
+    transform:translateX(100rem);
     animation: slideIn .5s forwards;
 }
     nav ul li:nth-child(1){ 
@@ -98,6 +98,8 @@ nav ul{
 
 nav ul li{
     list-style:none;
+    transform: translateX(100rem);
+    animation: slideIn .5s forwards;
 }
 
 nav ul li a{
