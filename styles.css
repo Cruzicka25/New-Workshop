@@ -20,7 +20,7 @@ html{
 
 a{
     text-decoration: none;
-    color:#eee;
+    color:#eaeaea;
 
 }
 
@@ -106,6 +106,7 @@ nav ul li a:hover{
     background-color: rgba(55, 141, 29, 0.683);
     padding:5px;
     border-radius:3.5px;
+    transition:.2s;
 
 }
 nav ul li a :last-child{
