@@ -51,10 +51,10 @@ nav{
     background:rgba(0, 0, 0, 0.386);
     border-radius:5px;
     border-width:none;
-    position:absolute;
+    position:fixed;
     top:0px;
-    margin-right:auto;
-    margin-left:auto;
+    left:250px;
+
    
     
     
@@ -73,10 +73,9 @@ nav a{
     padding-left:20px;
     color:rgb(216, 216, 216);
     top:0px;
-    margin-right:auto;
-    margin-left:auto;
-    position:absolute;
+    position:fixed;
     z-index:500;
+    left:250px;
     
 }
 
