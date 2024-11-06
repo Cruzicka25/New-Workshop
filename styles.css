@@ -1,8 +1,10 @@
-body{
+*{
     margin:0;
     padding:0;
     box-sizing:border-box;
     height:100vh;
+}
+body{  
     background:linear-gradient(to bottom,rgba(0,0,0,.2), rgba(0,0,0,.6)),  url(fjVeRHod.jpg) center no-repeat;
     background-size:cover;
     overflow-x:hidden;
