@@ -7,11 +7,26 @@ body{
     margin:0px;
     padding:0px;
     height:100vh;
-    overflow:hidden;
+    overflow-y:scroll;
+    overflow-x:hidden;
+    
 
 }
 
+::-webkit-scrollbar {
+    width: 7.5px;
+  }
+  
 
+::-webkit-scrollbar-thumb {
+    background: #00693E;
+    border-radius: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+  
+    border-radius: 5px;
+  }
 
 
 html{
